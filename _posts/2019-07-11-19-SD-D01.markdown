@@ -1,0 +1,66 @@
+---
+title:  "South Dakota - Day .5"
+date:   2019-07-11 20:48:25 -0500
+categories: 2019 Family Adventure
+---
+
+<h2 class="section-heading">The start of the Journey</h2>
+
+This all started when my wife and I overheard of a possible roadtrip happening this summer. My in-laws were talking about driving out to South Dakota to see some distant family who owns and operates a Cattle Farm. How cool is that?
+Now we had a bunch of questions. How do we get there? Where do we sleep? What will we do along the way? Are we crazy?
+
+          
+<h2 class="section-heading">How do we get there?</h2>
+
+Flying would of been the easiest and quickest. But we don't do anything that's easy. Our Jeep Grand Cherokee is a lease so even though it has the room, and MPG for the trip we didn't want to add that many miles.
+
+Most family trips we do in New England are in my daily driver, a 2015 Jeep Wrangler. Now we had to figure out how to pack 4 people into this little jeep, and drive over 4000 miles in a 2 week period.
+![The Little Jeep that could](/assets/2019-SD\img\Jeep_soft_nomods.jpg)
+<center><em>The little Jeep that could.</em></center>
+
+<h2 class="section-heading">Where do we sleep?</h2>
+We had camped before, but it had been awhile. So we decided to go over to a local State Park and camp for a weekend. We packed up our old tent, some pillows, blankets, food, grillstuff and headed out. At this point we hadn't bought anything to make life easier, and everything was crammed into the Jeep. By the time we got home later that weekend, we all decided to figure something else out. Ground camping as a family of 4, in a Wrangler was not so fun. And while the Jeep was packed nicley going out, coming home it was a hot mess.
+
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\BearBrook_TentSetup.jpg" alt="">
+
+<center><em>We didn't feel judged setting up the tent..Not at all!</em></center>
+<p>After watching some YouTube videos we got the idea of purchasing a Roof Top Tent. It would keep us off the ground, provide some saftey from the wildlife, and hopefully make it easier to find places to camp. Trying to find one that would fit four people proved to be somewhat dificult, but we finally found the SmittyBilt Overlander 2883 XL. We orderd the Tent, a Roof Rack, and a Trailer Hitch Shelf back in May, everything but the Tent was delivered a week later... The Tent, was delivered 1 week before our Trip. Phew!</p>
+<h2 class="section-heading">Roof Rack Install</h2>
+We officially had two options on getting the Roof Rack setup from the manufacturer. Option 1 was to buy a replacement rear bumper so the Roof Rack could mount directly to the frame. The stock bumper wraps around so you can't get to the frame. I liked this option!
+<center>
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\RoofRack_Option1.JPG" alt=""><br>
+<em>Option 1</em> </center>
+<p>While someday we will get a rear bumper, we decided to wait until we can also upgrade the shocks to support the weight. Time to review option 2!</p>
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\RoofRack_Option2.JPG" alt="">
+<center><em>Option 2</em></center> 
+Ok, Option 2 didn't work for us. Generally speaking we avoid adding holes into our vehicle unless its an easily replacable part or its absolutley needed. Someday we may trade this Jeep in for a Gladiator. Time to go onto option 3!
+Option 3 was making a series of small cuts into the existing bumper. This bumper is mostly hollow, so in theory it should be simple. We bought a hole saw attachment for the drill and went to town. What we didn't fully realize is that due to the size of the bumper, and how the roof rack installs we needed to make a few more cuts. We ended up hollowing out most of the inside of the bumper, allowing the Roof Rack frame to slide in and mount directly to the frame.
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\RoofRack_Bumper_mod_1.jpg" alt="">
+<center><em>Option 3</em></center> 
+Once the bumper as modified and reinstalled, with some help for our smallest child we got everything tight and squared away.
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\RoofRack_TheaHelper.jpg" alt="">
+<center><em>Our little grease monkey</em></center>
+With the roof rack mounted, it was feeling pretty sturdy. The next step was to put the hard-doors on, head to the beach and later re-isntall the hard-top and get ready for the tent!
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\RoofRack_HardDoors.JPG" alt="">
+<center><em>To the Beach!</em></center>
+<!--Talk about the roof rack here-->
+<h2 class="section-heading">Roof Top Tent Arrives!</h2>
+14 days before our trip, we find out the tent is finally in stock in the warehouse. Finally on July 5th 2019, the tent gets delivered on a tractor trailer. We had anxiously waited for this day for months, we had measured everything to make sure it will fit but most people who use the Roof Top Tents have larger vehicles, so it was hard to find pictures of how it would look.
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\JK_TentDelivery.jpg" alt="">
+<center><em>I've never been this excited to see a Tractor trailer.</em></center>
+On July 5th 2019, it was about 90 degrees outside. We tried for awhile to get the tent setup, but we were all overheating. Soon we brought the tent inside our apartment where the AC was blasting. Now we would take our time setting up the tent.
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\RTT_indoor_setup.jpg" alt="">
+<center><em>It was a two person job!</em></center>
+After we finished up inside, Abigail and I had to figure out how to get it on the jeep. This part was not documented, due to extreme heat our cell phone shut off when we tried to video tape it. Safe to say, we lucked out and between the two of us got it ontop of the Jeep!
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\RTT_Outdoor_OnTheJeep.jpg" alt="">
+<center><em>Making Progress!</em></center>
+Now that everything was assembled and sitting ontop of the Jeep, we came across the worst part of the process. Luckily we had helpers with little hands who helped pull the wrenches.
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\RTT_JRP_Help_mountbrackets.jpg" alt="">
+<center><em>Making sure the bolts are tight!</em></center>
+Wouldn't be a Pike assembled product if there weren't extra parts! (I later figured out that these weren't extra parts). The tent was setup and it was surprisingly roomy! We still had some loose ends to figure out, but it had been a succesful day. 
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\RTT_ExtraParts.jpg" alt="">
+<center><em>It had been a long day, this cable confused me.</em></center>
+We put the cover on the Roof Top Tent, and got cleaned up. We took the girls to get Ice Cream, and visit the beach. It was a well earned reward.
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\RTT_closedUp.jpg" alt="">
+<center><em>Ready to go!</em></center>
+
