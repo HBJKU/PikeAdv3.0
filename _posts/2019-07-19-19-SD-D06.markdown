@@ -1,0 +1,168 @@
+---
+title:  "South Dakota - Day 6 - Seeing the stone faces and exploring the Badlands"
+date:   2019-07-19 20:48:25 -0500
+categories: 2019 Family Adventure
+excerpt: "Reaching the badlands at last!"
+header:
+  overlay_image: /assets/2019-SD/img/7.19.19_badlands_header2.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "There was a rattle snake in the grass!"
+
+---
+<h2 class="section-heading">Leaving The Resort</h2>
+<p>Today was going to be a slow start, the KOA Resort we stayed at had a breakfast tent that opened at 7am. We figured it would be nice for the girls to have a slow start and enjoy breakfast. We went down to "Prospectors tent", and had some pankcakes, eggs, and coffee.  </p>
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.19.19_MorningCamp.jpg" alt="">
+</a>
+<figcaption>The morning camp</figcaption>
+
+<p>After breakfast we went up the hill towards Mount Rushmore. The KOA was only a few miles away so it was a short drive. The parking area was a 5 floor parking garage, the Jeep almost didn't fit into the parking garage. We missed the ceiling by an inch or two. Boy would that of been interesting.</p>
+<!--
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.18.19_NE_JeepRunningLow.jpg" alt="">
+</a>
+<figcaption>The Jeep isn't happy about the weight. Might as well get a lift kit soon!</figcaption>
+-->
+<p>Mount Rushmore was partially closed due to renovations, but we still visited the gift store to buy some patches and magnets. We usually buy a fridge magnetic whenever we visit a new state. We have also started collecting patches for each State\National park we visit. The plan is to put a headliner in the Jeep and attach them to the inside of the roof.</p>
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.19.19_MountRushmorEntrance.jpg" alt="">
+</a>
+<figcaption>Mount Rushmore</figcaption>
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.19.19_MountRushmore_sisterlylove.jpg" alt="">
+</a>
+<figcaption>aww, sometimes they do love each other</figcaption>
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.19.19_Mountrushmore_faces.jpg" alt="">
+</a>
+<figcaption>Wish we could of gotten closer!</figcaption>
+
+<h2 class="section-heading">Heading to the Badlands</h2>
+<p>We started out heading towards the badlands, we passed a Dinosaur museum on the way and had to make several u-turns to stop and go in. I kept missing the exit, and at one point had to drive through a ditch type thing. I didn't notice how deep it was, I think the cargo shelf bottomed out there again. Oops!</p>
+<p>In the backseat, Jenna is screaming like a banshee because she keeps seeing the Dinosaur sign go by. I don't know if she thinks I'm just being mean and driving back and forth on purpose? Eventually I got into the right parking lot. I may of driven in through an Exit though.</p>
+<p>Inside they had life-sized replicas of dinosaurs, an actual fossil, and a mirror maze. We looked around at all the dinos, and went through the Maze a few times. Jenna thought it was the funniest thing when she tried to find me, but I was around several corners. We all got a good laugh when she walked smack into a mirror trying to hug me.</p>
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.19.19_DinosaurMuseum_1.jpg" alt="">
+</a>
+<figcaption>Dinos!</figcaption>
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.19.19_DinosaurMuseum_2.jpg" alt="">
+</a>
+<figcaption>Dinos!</figcaption>
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.19.19_mirrorMaze.JPG" alt="">
+</a>
+<figcaption>Poor quality, I'm not the photographer that Abigail is</figcaption>
+<h2 class="section-heading">Wall Drug </h2>
+<p> It wouldn't be a trip to the midwest if we didn't stop at Wall Drug. Boy is that an interesting town, and it was packed full of tourists. We took some pictures, walked around the various stores. Both girls were amazed by the geodes and other rocks for sale. One of those geodes was 300$! <i>I may of nervously shooed them away when they tried picking it up..</i></p>
+<p>We had lunch in their Prarie Cafe, A slice of pizza for the girls shared and a Strawberry smoothie. It hit the spot. The girls tried on some cowboy boots, and Jenna tried her hand at a racing game.</p>
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.19.19_WallDrug_Jackalope.jpg" alt="">
+</a>
+<figcaption>The famous Jackalope</figcaption>
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.19.19_JRP_WallDrug_CowboyHat.jpg" alt="">
+</a>
+<figcaption>Jenna's Cowboy hat she tried on</figcaption>
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.19.19_TNP_WallDrug_CowboyBoots.jpg" alt="">
+</a>
+<figcaption>Thea Really wanted these</figcaption>
+
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.19.19_walldrug_racingGame.JPG" alt="">
+</a>
+<figcaption>Jenna loved the racing game</figcaption>
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.19.19_walldrug_Girls_Tired.jpg" alt="">
+</a>
+<figcaption>The whole family...Everyone was a bit tired</figcaption>
+<h2 class="section-heading">Finding Camp</h2>
+<p>On the way to Camp, we came across the Prarie Dog Ranch store, where you could buy bags of Peanuts and feed the Prarie dogs. We didn't buy anything, but we were still able to walk out and see Prarie dogs from a foot away. </p>
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.19.19_PraireDogs1.jpg" alt="">
+</a>
+<figcaption>Prarie Dog Up Close and Personal!</figcaption>
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.19.19_PraireDogs2.jpg" alt="">
+</a>
+<figcaption>Prarie Dog!</figcaption>
+
+<p> After Wall Drug we decided to find our campsite before exploring the badlands. We ended up at the White-River KOA camp. We paid for a spot with electricity but they gave us spot that only had a 30 amp outlet. Soo we had to drive back to the Officeand ask to get a spot with a 20amp outlet.</p>
+<p>This time when we checked it out the family camping next to us was plugged into the only 20 amp outlet. There was a 30 amp outlet available, but nothing in the Jeep could use that. So we drove back to the office again. <i>Side note: The speed was 5mph, with speed bumps. It wasn't far, but it was annoying and the girls were very cranky. They didn't like driving past the pool over and over again.</i>Abigail ran in to tell the manager that the non-power campsite had plugged into our spot and they had someone drive down to see what was going on. By this time we had decided we would go off and explore the badlands, and see what awaited us when we returned. (We had power when we returned, yay!)</p>
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.19.19_KOASign.jpg" alt="">
+</a>
+<figcaption>Our camp for the night</figcaption>
+
+
+<h2 class="section-heading">Exploring the Badlands</h2>
+<p> After we dealt with camp, we made our way into the Badlands. Driving around for a hour or two, we didn't even finish the whole loop. We got out and tried walking a few trails, and found they were a bit too difficult for the girls. We still explored some of the clay mounds.</p>
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.19.19_Badlands1.jpg" alt="">
+</a>
+<figcaption>The badlands from an overlook!</figcaption>
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.19.19_Badlands2.jpg" alt="">
+</a>
+<figcaption>The Badlands!</figcaption>
+
+<p> In one of the spots we stopped for pictures, we heard a rattle sound coming from the bushes. Luckily Abigail was up high out of the way, so we quickly got into the Jeep.</p>
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.19.19_Badlands_Abigail_Rattle.jpg" alt="">
+</a>
+<figcaption>The Badlands!</figcaption>
+
+<p>Fun fact about the badlands, when one of your kids has to go Pee the clay ground very quickly absorbs the liquid. Jenna decided she <b>had</b> go pee as we were walking up one of the trails. She also refused to head back to the Jeep so we could head to the visitor center down the road and use a bathroom. Luckily there was nobody around and we were able to crouch down behind some tall grass (no rattle snakes).</p>
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.19.19_badlands3_jennaclimb.jpg" alt="">
+</a>
+<figcaption>The Badlands!</figcaption>
+
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.19.19_Badlands4.jpg" alt="">
+</a>
+<figcaption>The Badlands!</figcaption>
+<p> We stopped to do a Fossil boardwalk, which supposidly was in an area that Fossils are known to be found. If someone discovers a fossil, there is a form you can fill out so professionals can come out and look at it.</p><p> It was very hot, and there was a Bee that would not leave us alone. First it was bothering Thea and Abigail, and then soon it came after me when I tried to shoo the bee away. Thea and I escape back to the Jeep to apply lots of bug spray, and then came back to explore more with Jenna and Abigail.</p>
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.19.19_fossil_boardwalk.jpg" alt="">
+</a>
+<figcaption>A fossil boardwalk we did</figcaption>
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.19.19_Badlands_lookout_family.jpg" alt="">
+</a>
+<figcaption>Happy Family!</figcaption>
+<h2 class="section-heading">Back to Camp</h2>
+<p> By this time it was hot and late in the day. We were all...Cranky. That's a nice word to describe us. Everyone was yelling at each other, demading to go home. Our first campsite here was in the shade, and we passed it up for one without shade. Man, we were all unhappy. I almost wanted to call the trip short!</p> <p>When we finally got unpacked  Abigail made some Camp Tacos (My favorite). Soon after we ate, we all went over to the pool to take a much needed dip. I thought the water was excelent, it was very warm (from the sun), but I think the girls wanted it to be a bit colder. </p>
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.19.19_KOA_tacos.jpg" alt="">
+</a>
+<figcaption>Yummy Camp Tacos!</figcaption>
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.19.19_koa_pool.jpg" alt="">
+</a>
+<figcaption>Fun times in the pool!</figcaption>
+<p>Of course we had to visit the playground at the KOA, Jenna got to try her hand at lassoing a Bull!</p>
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.19.19_JRP_TNP_RODEO.jpg" alt="">
+</a>
+<figcaption>This didn't end well</figcaption>
+<p> After the playground we went into the camp store and each got an ice-cream. Thea did not want to leave the playground, but once Jenna knew there was ice-cream available, she made sure Thea went to where she needed to be.</P>
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.19.19_KOA_playground_dragging.jpg" alt="">
+</a>
+<figcaption>Jenna, gently guiding Thea to the store</figcaption>
+
+<p>They melted pretty quicly but both girls ate theirs as fast as possible.</P>
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.19.19_KOA_IceCream.jpg" alt="">
+</a>
+<figcaption>Thea was eyeballing Jenna's!</figcaption>
+<p>Abigail and I saved ours for after we all got ready for bed. Hoping we could enjoy it ourselves, but once the little monsters saw we had ice-cream...We had to share. They probably would of thrown us out of the tent if we didn't give them bites.</p>
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.19.19_KOA_bedtime_tablet.jpg" alt="">
+</a>
+<figcaption>Watching cartoons on the tablet before bed</figcaption>
+
+<p> Finally it was time to go to bed, the noise we heard in Missouri came back. My guess is it was some kind of bug, because the outdoor sink by the bathroom was full of dead beetles. Hopefully tomorrow we would be at the Farm, and be able to enjoy a few nights rest.</p>
+</div>
