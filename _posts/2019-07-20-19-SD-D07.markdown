@@ -1,7 +1,7 @@
 ---
 title:  "South Dakota - Day 7 - The Jeep Survived & We reached the farm!"
 date:   2019-07-20 20:48:25 -0500
-categories: 2019 Family Adventure
+categories: 2019 Family-Adventure SouthDakota
 excerpt: "A small off-road trip, and relaxing at the farm."
 header:
   overlay_image: /assets/2019-SD/img/7.20.19_JennaThea_header.jpg

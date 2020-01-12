@@ -1,7 +1,7 @@
 ---
 title:  "South Dakota - Day 5 - Great Faces, Great places!"
 date:   2019-07-18 20:48:25 -0500
-categories: 2019 Family Adventure
+categories: 2019 Family-Adventure SouthDakota
 excerpt: "Reaching the black hills!"
 header:
   overlay_image: /assets/2019-SD/img/7.18.19_header1.jpg

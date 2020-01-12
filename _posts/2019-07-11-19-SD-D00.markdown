@@ -1,7 +1,7 @@
 ---
 title:  "South Dakota - Day .5 - The Start of a Journey"
 date:   2019-07-11 20:48:25 -0500
-categories: 2019 Family Adventure
+categories: 2019 Family-Adventure SouthDakota
 excerpt: "Trying to figure out how to get from A to B"
 header:
   overlay_image: /assets/2019-SD\img\JK_TentDelivery.jpg

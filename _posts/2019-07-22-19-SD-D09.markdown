@@ -1,0 +1,120 @@
+---
+title:  "South Dakota - Day 9 - Family Party & Toranado Sirens"
+date:   2019-07-22 20:48:25 -0500
+categories: 2019 Family-Adventure SouthDakota
+excerpt: "Visiting family in Iowa"
+header:
+  overlay_image: /assets/2019-SD/img/7.22.19_header1.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "Iowa."
+---
+<h2 class="section-heading">Early morning</h2>
+<p>It was rough waking up at 4am. Our boddies had grown used to both the bed and sleeping indoors. It didn't rock back and forth when you moved, and it was more comfy then the tent. But we wanted to get to Iowa this morning to see Abigail's grandaparents, aunt, cousin, and maybe the in-laws.</p>
+<p>When we got up Bonnie and Betsy had already been up for awhile. Sounds like Betsy gets up fairly early to take care of the farm, and Bonnie woke up to make us breakfast and coffee. They really are super nice people!</p>
+<p>Breakfast today was some home-made Breakfast burritos with green Salsa on top. Bonnie also made a pot of coffee, and made it stronger then normal. She admitted the other day that us east-coast people like strong coffee. Bonnie packed us some donuts, gold fish, and a pop-tart for the girls once they woke up.</p>
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.22.19_BreakfastBurrito.jpg" alt="">
+</a>
+<figcaption>Very Yum!</figcaption>
+
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.22.19_TheaAsleep.jpg" alt="">
+</a>
+<figcaption>Thea Sleeping in the bed</figcaption>
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.22.19_farm_JennaAsleep.jpg" alt="">
+</a>
+<figcaption>Jenna sound asleep on the couch</figcaption>
+
+
+<h2 class="section-heading">Road to Iowa</h2>
+<p>We learned our lesson last time, before I left I filled my Water bottle up with hot coffee which kept me Peppy for the road. We took a bathroom break after 2 hours, about 1/2 to our destination. We both stocked up on Coffee and we tried some donuts from the local Casey's.</p>
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.22.19_CaseyDonutsCoffee.jpg" alt="">
+</a>
+<figcaption>Abigail's Coffee and the donuts we shared</figcaption>
+<p>The rest of the trip to Iowa was pretty uneventful, we saw lots of corn. And I feel like that is an understatement for how much corn there is out here. Most of this corn isn't even for human consumption! I never want to see corn again.</p>
+<p>Anothing thing about Iowa is they are very energy efficient. There were lots of wind turbines, and all of the gas stations had flex fuel. I even put flex fuel in the Jeep once by accident. I knew there were areas with different octanes, but wasn't really aware of what Flex fuel was. I ended up putting a couple gallons of E-15 in the Jeep. Besides some poor MPG it didn't seem to affect anything.</p>
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.22.19_iowa_oldTurbines.jpg" alt="">
+</a>
+<figcaption>Old Wind Turbines</figcaption>
+
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.22.19_flexfuel_oops.jpg" alt="">
+</a>
+<figcaption>Too many options!</figcaption>
+
+<h2 class="section-heading">Staying at the Cousin's</h2>
+<p>Our desintation today was the house of Wes , Abigai's cousin. Jenna was excited to meet him since he worked on "Wind Mills". They had a son, Jackson, who was turning 3 today! Once we got to their house the kids instantly wanted to play with his toys. The water table and trampoline were an instant favorite.</p>
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.22.19_hollands_watertable_JPTP.jpg" alt="">
+</a>
+<figcaption>Joslynn playing with the Pike Girls</figcaption>
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.22.19_hollands_JPJH_Trampoline1.jpg" alt="">
+</a>
+<figcaption>Trampoline fun!</figcaption>
+<p>It was pretty buggy and getting warm so we tried to take the kids down to the Pool. There was no kiddie Pool and neither Jenna or Thea wanted to be held in the water or wear a swim vest. The water felt nice, and Grandpa Cobb got to enjoy some sun as he watched over his great-grandkids splash in the water.</p>
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.22.19_hollands_WesCobb_Lounging_pool.jpg" alt="">
+</a>
+<figcaption>Wes Cobb watching the kids play</figcaption>
+<p>Soon we were playing on the playground, the 15 foot slide was an instant favorite. All of the kids wanted to climb up and slide down.</p>
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.22.19_hollands_TheaBigSlide.jpg" alt="">
+</a>
+<figcaption>Thea's turn on the slide</figcaption>
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.22.19_hollands_JennaBigSlide.jpg" alt="">
+</a>
+<figcaption>One of Jenna's many trips down the slide</figcaption>
+<p>By this time everyone was getting cranky, so we headed back to the house. I pulled the Jeep onto the lawn and setup the roof top tent. Once we got back to the House the tornado siren went off! Apparently they test it three times a day, talk about a surprise for me!</p>
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.22.19_hollands_TentDemo1.jpg" alt="">
+</a>
+<figcaption>Demoing the Roof Top Tent</figcaption>
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.22.19_hollands_RexCP_Tent.jpg" alt="">
+</a>
+<figcaption>Talking about the cargo shelf and getting tips to help with the bouncing</figcaption>
+<p>By this time Thea was ready for a nap, so we cuddled while I was eaten alive by the black flies. I had Thea wrapped up in a blanket so she wouldn't get eaten alive.</p>
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.22.19_hollands_TheaSleep_BUGS.jpg" alt="">
+</a>
+<figcaption>Thea Burrito</figcaption>
+<h2 class="section-heading">Dinner & Bedtime</h2>
+<p>Cousin Wes ordered some Pizza which was very appreciated. Abigail enjoyed the Taco salad Pizza, so much that she intents to try and make it at home.</p>
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.22.19_hollands_tacoPizza.jpg" alt="">
+</a>
+<figcaption>Abigail may of eaten most of this pizza</figcaption>
+<p>Another hit was the battery powered tractor that Jackson had. Both kids were fighting over who got to drive it, eventually the tractor was put away and they moved onto playing with other toys.</p>
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.22.19_hollands_JennaTractor_driving1.jpg" alt="">
+</a>
+<figcaption>Trying to teach Jenna to drive</figcaption>
+<p>It wouldn't be a family party if we didn't setup for some group family pictures.</p>
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.22.19_hollands_PikeFamily.jpg" alt="">
+</a>
+<figcaption>The Pike Family</figcaption>
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.22.19_hollands_theHollands.jpg" alt="">
+</a>
+<figcaption>Jackson, Wes, Josolynn</figcaption>
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.22.19_hollands_FamilyShot.jpg" alt="">
+</a>
+<figcaption>All of the family members</figcaption>
+<p>We quickly made a few s'mores for the kids and then moved inside to avoid the black fly swarm.</p>
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.22.19_hollands_JennaSmores.jpg" alt="">
+</a>
+<figcaption>Making s'mores over the Pocket Rocket</figcaption>
+<p>Once we were inside the adults sat at the dining room table to talk, while the kids relaxed on the couch watching some TV.</p>
+<a href="#">
+<img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\7.22.19_hollands_MovieTime_Jenna_jackson.jpg" alt="">
+</a>
+<figcaption>Relaxing while watching TV</figcaption>
+<p>We were all exhausted, so we didn't stay up very long. Pretty soon we were in the tent, trying to get some sleep. Tomorrow we were going to start the Journey back home.</p>

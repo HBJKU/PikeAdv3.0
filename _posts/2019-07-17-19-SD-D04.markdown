@@ -1,7 +1,7 @@
 ---
 title:  "South Dakota - Day 4 - That Sweet Nebraska Water"
 date:   2019-07-17 20:48:25 -0500
-categories: 2019 Family Adventure
+categories: 2019 Family-Adventure SouthDakota
 excerpt: "Day 4 - Fighting the heat, and enjoying Nebraska (And trains)"
 header:
   overlay_image: /assets/2019-SD/img/7.17.19_NE_NationalForestJeep.jpg

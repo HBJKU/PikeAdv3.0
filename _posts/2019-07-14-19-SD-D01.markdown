@@ -1,7 +1,7 @@
 ---
 title:  "South Dakota - Day 1 - Hills, Trees, Bridges & Gas Stations "
 date:   2019-07-14 20:48:25 -0500
-categories: 2019 Family Adventure
+categories: 2019 Family-Adventure SouthDakota
 excerpt: "Still a day ahead of schedule (sort of!)"
 header:
   overlay_image: /assets/2019-SD/img/7.14.15-header1.jpg

@@ -1,7 +1,7 @@
 ---
 title:  "South Dakota - Day 3 - Fighting the heat & Humidity"
 date:   2019-07-16 20:48:25 -0500
-categories: 2019 Family Adventure
+categories: 2019 Family-Adventure SouthDakota
 excerpt: "Day 3 - Welcome to <strike>Missouri</strike> Misery."
 header:
   overlay_image: /assets/2019-SD/img/7.16.19_header1.jpg
