@@ -18,7 +18,15 @@
     max-width: $max-width;
   }
 }
-
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+em {
+  margin-left: auto;
+  margin-right: auto;
+}
 body {
   display: -webkit-box;
   display: -ms-flexbox;

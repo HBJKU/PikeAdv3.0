@@ -242,6 +242,7 @@ figure {
 
     figcaption {
       width: 100%;
+      
     }
   }
 
@@ -255,6 +256,7 @@ figure {
 
     figcaption {
       width: 100%;
+      
     }
   }
 }
@@ -266,7 +268,7 @@ figcaption {
   color: $muted-text-color;
   font-family: $caption-font-family;
   font-size: $type-size-6;
-
+  text-align: center;
   a {
     -webkit-transition: $global-transition;
     transition: $global-transition;

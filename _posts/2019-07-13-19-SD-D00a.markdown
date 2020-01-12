@@ -1,8 +1,16 @@
 ---
-title:  "South Dakota - Day 1"
+title:  "South Dakota - Day .75 - Schedule? We don't need no schedule!"
 date:   2019-07-13 20:48:25 -0500
 categories: 2019 Family Adventure
+excerpt: "Lets leave a day early!"
+header:
+  overlay_image: /assets/2019-SD\img\7.13.19.header.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "Road Trip you say? Alpaca my Jeep!"
 ---
+<p hidden><p>
+
+
 <h2 class="section-heading">The Calm before the Storm</h2>
 <p>Abigail and I woke up early this morning, to the sounds of Jenna snoring on our bed. She has taken to sneaking into our bed in the middle of the night. Considering we are about to spend 2 weeks in a tent together, we let her sleep in a little longer. Abigail got up to make breakfast and start the day. Meanwhile it was my job to get the Cat and her "stuff" ready. </p>
 
@@ -12,45 +20,47 @@ categories: 2019 Family Adventure
 <a href="#">
 <img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\GoodByeKitty.JPG" alt="Goodbye Kitty!">
 </a>
-<center><em>Goodbye Kitty</em></center>
+<center><figcaption>Goodbye Kitty</figcaption></center>
 <a href="#">
 <img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\Amiela_Kitty.JPG" alt="Goodbye Kitty!">
 </a>
-<center><em>Amiela & The Cat</em></center>
+<center><figcaption>Amiela & The Cat</figcaption></center>
 
 <p>Its always fun to clean the litter box first thing in the morning (GAG). I wouldn't be a Tech Pet Owner, if we didn't have a robot shaped usb powered cat feeder. </p>
 <a href="#">
 <img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\CatFeeder.JPG" alt="THE CAT">
 </a>
-<center><em>Best. Purchase.</em></center>
+<center><figcaption>Best. Purchase.</figcaption></center>
 <p>Now with the cat box cleaned, the robot stocked up, and the cat tucked away inside her carrier, it was Abigail's turn to drive it over to her Sisters. Meanwhile, Jenna, Thea, and I were left to our own devises.</p>
 <h2 class="section-heading">The Calm before the Storm</h2>
 <p> Like the good responsible adult I am, I enjoyed some quality cartoon watching time with my girls while Momma was away. We ate some more breakfast, watched cartoons and had some peace and quiet. Jenna and I discussed what her "Camp Job" would be. She decided it was "Smores Eater".</p>
 <a href="#">
 <img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\JRP_Marshmellow.JPG" alt="THE CAT">
 </a>
-<center><em>Making Smores at Bear Brook</em></center>
+<center><figcaption>Making Smores at Bear Brook</figcaption></center>
 <h2 class="section-heading">Finding Motivation</h2>
 <p>Soon enough Abigail was back home, and we continued to stare at our unpacked camping supplies. We Really Need to start packing. But we weren't going to leave until Monday, so we still had sunday to pack. Right? That was the original plan, but pretty soon Abigail and I agreed to move our schedule up by 1 day. Leaving Sunday morning, instead of Monday </p>
-<p>Now it was go time, it was 10am. We had only 19 hours before we were going to pack into the Jeep and head out. Queue the Benny Hill Theme song while we ran around packing. (If your not familiar, click here <a target="_blank"href="https://www.youtube.com/watch?v=MK6TXMsvgQg&t=26s">Here</a>) I would pack something, and then Abigail would have to repack it. She had a system, I had no clue.</p>
+<p>Now it was go time, it was 10am. We had only 19 hours before we were going to pack into the Jeep and head out. Queue the Benny Hill Theme song while we ran around packing. <figcaption>If your not familiar,<a target="_blank" href="https://www.youtube.com/watch?v=MK6TXMsvgQg&t=26s"> click here</a></figcaption>. I would pack something, and then Abigail would have to repack it. She had a system, I had no clue.
+
+</p>
 <a href="#">
 <img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\PackedBags.JPG" alt="Packed bags">
 </a>
-<center><em>Abigail's System</em></center>
+<center><figcaption>Abigail's System</figcaption></center>
 
 <h2 class="section-heading">17 Hours to go</h2>
 <p>It was 12:30, we were going to head up to my parents soon to show them the tent and check in before we left. Everything was mostly packed, and ready for us when we got back. It was a hot sunny day, and we were all hot. But it was a good visit with the Grandparents.</p>
 <a href="#">
 <img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\GrandparentsPike.JPG" alt="Grammy braved the tent">
 </a>
-<center><em>Grammy braved the tent</em></center>
+<center><figcaption>Grammy braved the tent</figcaption></center>
 <p>Soon we were back in the Jeep heading home. We made one quick stop at Walmart to buy some food for tomorrow, but otherwise home to finish packing. </p>
 <h2 class="section-heading">The First Deadline</h2>
 <p> We were coming up on our first deadline of the trip. Moms night out was at 6:15PM. Abigail and several of her friends get together every now and then, without kids or husbands. We both agreed it was a good idea for Abigail to get some R&R, especially before we go on a 2 week road trip. While Abigail and her friends were getting dinner at La Corona, the girls and I were eating pizza and popsicles. </p>
 <a href="#">
 <img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\ALP_DInner.JPG" alt="Supreme Nachos!">
 </a>
-<center><em>Abigail's Dinner (I may of finished this later)</em></center>
+<center><figcaption>Abigail's Dinner (I may of finished this later)</figcaption></center>
 <h2 class="section-heading">Mission Impossible: Finish the Popsicles</h2>
 <p>Since its summer, we keep a constant supply of popsicles in the freezer. Even though we weren't going to shut off the refridgerator I decided the popscicles had to go. Much to the delight of Jenna & Thea. Unfortunatley since Abigail was at dinner, we don't have any pictures (because apparently I don't take as many photos as Abigail...Go Figure), but the girls devoured many popsicles. The trash can looked like a miniture logging company came to town and dropped off a truck load of wood! </p>
 <p>Fun Fact, for some strange reason both girls snap their Popsicle sticks in half when they finish. </p>
@@ -60,18 +70,18 @@ categories: 2019 Family Adventure
 <a href="#">
 <img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\RoadTrip_boxes.jpg" alt="Roadtrip Boxes">
 </a>
-<center><em>This is just the first set of road toys\games</em></center>
+<center><figcaption>This is just the first set of road toys\games</figcaption></center>
 <a href="#">
 <img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\RoadTrip_boxes_loadedUp.jpg" alt="Roadtrip boxes loaded up">
 </a>
-<center><em>Let's see how long they stay this neat.</em></center>
+<center><figcaption>Let's see how long they stay this neat.</figcaption></center>
 
 <h2 class="section-heading">T-Minus 6 1/2 Hours</h2>
 <p>Its 9:30, we should probably be in bed but we are trying to finish up this blog post & make sure we didn't forget anything. It will be a long day tomorrow, first day of many.</p>
 <a href="#">
 <img class="img-fluid" src="{{site.baseurl}}/assets/2019-SD\img\WorkingonBlogPost.jpg" alt="Old School Blogging">
 </a>
-<center><em>Abigail says this looks confusing!</em></center>
+<center><figcaption>Abigail says this looks confusing!</figcaption></center>
 <p>Stay Tune for more updates, the next should be while we are on the road!</p>
 
 
